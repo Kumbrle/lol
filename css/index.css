@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+}
+
+#para1{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bolder;
+}
+#para2{
+    text-align: center;
+    font-size: 1.5vw;
+    padding-top: 5vw;
+}
+
+#para3{
+    text-align: center;
+    font-size: 1vw;
+}
+
+#join1{
+    background-color: gray;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 10vw;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
+a{
+    text-decoration: none;
+    padding: 1vw 5vw;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10vw;
+    color: black;
+    transition: 0.4s ease-in-out;
+    margin-top: 10vw;
+}
+
+a:hover{
+    border-color: white;
+    background-color: yellowgreen;
+    color: white;
+}
